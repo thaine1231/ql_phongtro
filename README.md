@@ -1,2 +1,2 @@
 # ql_phongtro
-Thằng nào có tiền đưa hết đây
+COMMIT CSDL CHO ĐÀNG HOÀNG =))
