@@ -165,3 +165,6 @@ MONTH(NgayThanhToan) AS Thang,
 SUM(TienPhong) AS DoanhThu
 FROM ThanhToan
 GROUP BY MONTH(NgayThanhToan)
+
+
+Select * from PhongTro
